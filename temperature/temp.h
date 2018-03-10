@@ -10,7 +10,6 @@
 class TEMP{
 private:
   String apikey = "LP0XBCXZNI8NJ3OW";
-  String cmd;
   String getMsg(String temp);
   WiFiClient client;
 
