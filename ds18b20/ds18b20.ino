@@ -53,6 +53,6 @@ void loop() {
   temperature_.Connect();
   temperature_.Send(temperatureString);
 
-  delay(60000);
+  delay(5000);
 }
 
